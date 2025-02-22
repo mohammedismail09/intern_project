@@ -24,3 +24,4 @@ daily stand-ups is generally a short meeting (maximum 15 mins) where team member
 
 Retrospective: <br>
 Retrospective is a meeting at the end of every sprint, simply to check on the team's progress and try to find the way if any work is pending or getting issues. The main goal is to reflect on the entire sprint and discuss --What went well, What didn’t go well and What can be improved.
+ss
